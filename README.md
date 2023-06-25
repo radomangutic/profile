@@ -76,12 +76,12 @@
   </h2>
 
   <div align="center"> 
-    <a href="mailto:inteldev2080@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+    <a href="mailto:virus.old.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://join.skype.com/invite/xBpSxLD8vNyH" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+    <a href="https://join.skype.com/invite/pvyBEgeRg6NU" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://t.me/inteldev81" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+    <a href="https://t.me/JSun67" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://discord.gg/Intel Dev#3844" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+    <a href="https://discord.gg/virusold" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   </div>
 </div>
